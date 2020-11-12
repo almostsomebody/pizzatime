@@ -1,0 +1,5 @@
+pydub==0.24.1
+discord.py==1.5.0
+ffmpeg==1.4
+mutagen==1.45.1
+discord==1.0.1
